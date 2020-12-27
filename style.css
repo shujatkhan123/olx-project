@@ -1,0 +1,306 @@
+.mainheader{
+
+    width: 100%;
+    height: 80px;
+    background-color: rgba(0,47,52,.03);
+    box-shadow: 5px 5px 5px solid black;
+
+
+}
+.olx{
+    font-size: 15px;
+    font-weight: bold;
+    box-shadow: 4px 4px 4px solid white;
+}
+
+.input1{
+    width: 410px;
+    padding: 12px;
+    border-radius: 5px;
+    border: 3px solid black;
+    margin: 10px;
+
+
+}
+
+.input2{
+    width: 520px;
+    padding: 12px;
+    margin: 10px;
+    border-radius: 5px;
+    border: 3px solid black;
+}
+
+.button1{
+
+    padding: 10px;
+    margin: 10px;
+    color: black;
+    border: none;
+    text-decoration: underline;
+    font-weight: bold;
+    background-color: rgba(0,47,52,.03);
+    
+}
+
+.button1:hover{
+
+    background-color: blue;
+    color: white;
+    box-shadow: 5px 5px 5px gray;
+}
+
+.button2{
+
+    padding: 15px;
+    margin: 10px;
+    border-radius: 10px;
+    border-top: 3px solid green;
+    border-left: 3px solid blue;
+    border-bottom: 3px solid red;
+    border-right: 3px solid black;
+    background-color:white;
+    color: black;
+    font-weight: bold;
+    font-size: 15px;
+
+}
+
+.maindiv{
+
+    margin-left: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.input1::placeholder{
+
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.input2::placeholder{
+
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#icon{
+
+    font-size: 20px;
+    padding: 10px;
+}
+
+/* second navbar */
+
+.mainheading{
+
+    font-size: 20px;
+    margin-top: 13px;
+
+}
+
+div h2{
+
+
+    font-weight: none;
+    font-size: 15px;
+    margin: 15px 15px;
+}
+
+.secondnavbar{
+
+    margin-left: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+
+}
+
+/* front pirture  */
+
+.picture{
+
+    width: 98%;
+    height: 400px;
+    margin-left: 10px;
+}
+
+
+/* cards */
+
+
+.cardMainDiv{
+
+    width: 80%;
+    background-color: seashell;
+    box-shadow: 3px 3px 3px gray;
+    margin: 0 auto;
+}
+
+.textDiv{
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.fontbold{
+
+    font-size: 25px;
+    text-shadow: 4px 4px 4px solid gray;
+    
+    
+}
+
+
+.cardDiv{
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-around;
+}
+
+.cardDiv2{
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-around;
+}
+
+.cardDiv3{
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-around;
+
+}
+
+.pic{
+
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width: 200px;
+    height: auto;
+    background-color: whitesmoke;
+}
+
+.pic:hover{
+
+    opacity: 0.6;
+    background-color: lightcoral;
+}
+
+.load{
+
+    margin-left: 45%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.carBazar{
+
+    box-shadow: 5px 10px 18px #888888;
+    height: 300px;
+    width: 850px;
+    margin: 0 auto;
+}
+
+/* second last pics */
+
+.secondLastDiv{
+
+    width: 100%;
+    height: auto;
+    background-color: whitesmoke;
+
+}
+
+.lastFlex{
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.appleandgoogle{
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.footerpics{
+
+    height: 200px;
+    width: 350px;
+}
+
+.font2{
+    font-size: 20px;
+}
+
+.apple{
+
+    width: 110px;
+    height: auto
+}
+
+.try{
+
+    margin-top: 20px;
+    border-right: 1px solid gray;
+    padding: 5px;
+}
+
+.google{
+
+    margin-top: 25px;
+}
+
+.end{
+
+    width: 100%;
+    height: auto;
+    background-color :#ebeeef;
+}
+
+.end1{
+
+    border-top: 1px solid gray;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+}
+
+.end1 p{
+
+    line-height: 10px;
+}
+
+.margin{
+
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
